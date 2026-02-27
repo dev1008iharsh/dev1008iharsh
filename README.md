@@ -1,100 +1,80 @@
 # 👋 Hi, I'm Harsh Darji  
 
-## 🚀 Senior iOS Engineer — 5+ Years Experience  
+## 🚀 Senior iOS Engineer — 5+ Years  
 
 📱 Native iOS Specialist — Swift • UIKit • SwiftUI  
-⚡ Scalable, High-Performance & Production-Ready Mobile Systems  
+⚡ Scalable, High-Performance & Production-Ready Apps  
 🏆 20+ Apps Built from Scratch • 35+ Apps Delivered  
 
 ---
 
 ## 🌐 Portfolio & Contact  
 
-📧 **Email:** dev.iharsh1008@gmail.com  
-📱 **Phone:** +91 9662108047  
+📧 dev.iharsh1008@gmail.com  
+📱 +91 9662108047  
 
-🌐 **Portfolio Website**  
-👉 https://dev1008iharsh.github.io/  
-
-💼 **LinkedIn**  
-👉 https://www.linkedin.com/in/dev1008iharsh/  
-
-🐙 **GitHub**  
-👉 https://github.com/dev1008iharsh  
+🌐 Portfolio → https://dev1008iharsh.github.io/  
+💼 LinkedIn → https://www.linkedin.com/in/dev1008iharsh/  
+🐙 GitHub → https://github.com/dev1008iharsh  
 
 ---
-## 🧠 About Me  
 
-Senior iOS Engineer with 5+ years of experience designing, developing, and shipping high-quality native applications using Swift. I have engineered multiple products from concept to App Store deployment across healthcare, e-commerce, education, entertainment, and enterprise domains.  
+## 🧠 About  
 
-My focus is on building scalable, performant, and user-centric applications that solve real business problems while maintaining clean architecture and long-term maintainability.  
+Senior iOS Engineer experienced in designing, building, and shipping high-quality native applications from concept to App Store. Specialized in scalable architecture, performance optimization, offline-first systems, and clean, maintainable codebases across multiple domains.
 
-⚠️ **Most production apps cannot be publicly showcased due to company security and confidentiality policies.**
+⚠️ Most production apps cannot be publicly showcased due to company confidentiality policies.
 
+---
 
+## 🔧 Core Expertise  
 
-## 🔧 Core Technical Expertise  
-
-• Swift, UIKit, SwiftUI, Combine  
-• MVC, MVVM, Clean Architecture, Modular Development  
-• REST & GraphQL API Integration  
-• Core Data, Realm, Offline-First Systems  
-• Firebase (Auth, Firestore, Analytics, Cloud Messaging)  
-• Push Notifications, Background Tasks, In-App Purchases  
-• Core Animation, Core Location, AVFoundation  
-• Keychain Security, WidgetKit, Media Processing  
+• Swift • UIKit • SwiftUI • Combine  
+• MVC • MVVM • Clean Architecture • Modular Apps  
+• REST & GraphQL APIs  
+• Core Data • Realm • Offline Systems  
+• Firebase Suite (Auth, Firestore, FCM, Analytics)  
+• Push Notifications • Background Tasks • IAP  
+• Core Animation • AVFoundation • Core Location  
+• Security • Keychain • Widgets • Media Processing  
 
 ---
 
 ## ⚡ Performance & Optimization  
 
-Strong experience optimizing applications for large-scale usage:  
-
-• Faster launch time & memory optimization  
-• Eliminating memory leaks & improving stability  
-• Networking reliability improvements  
-• Refactoring legacy codebases  
-• Upgrading deprecated APIs & libraries  
-• Reusable components for long-term maintainability  
-• Instruments-based profiling & debugging  
+• Launch time & memory optimization  
+• Stability improvements & leak removal  
+• Networking reliability & caching strategies  
+• Legacy modernization & reusable components  
+• Instruments profiling & debugging  
 
 ---
 
-## 🚀 End-to-End Delivery  
+## 🚀 Delivery & Production  
 
-Delivered applications from architecture design to App Store release:  
-
-• App Store Connect management & TestFlight distribution  
-• Crash monitoring & analytics (Firebase)  
-• Production-ready security practices  
-• CI/CD workflows & version management  
+• Architecture → App Store release  
+• App Store Connect & TestFlight  
+• Crash monitoring & analytics  
 • Secure authentication & data handling  
+• CI/CD & version management  
 
-Implemented complex features such as multi-camera recording systems, offline-first apps, secure media pipelines, Web3 integrations, and real-time data-driven experiences.
+Built complex systems including offline-first apps, media pipelines, real-time features, and large-scale production deployments.
 
 ---
 
-## 🤝 Collaboration & Leadership  
+## 🤝 Leadership  
 
-• Work closely with designers, backend teams, QA, and product managers  
-• Deliver polished solutions under tight deadlines  
-• Mentor junior developers & promote best practices  
-• Maintain clean, scalable codebases for long-term growth  
+• Cross-functional collaboration  
+• Mentoring & best practices  
+• Clean, scalable code ownership  
 
 ---
 
 ## 🎓 Education  
 
-M.Sc. in IT & Computer Applications  
-B.Sc. in Information Technology  
-
-Strong academic foundation in software engineering and problem solving.
+M.Sc. IT & Computer Applications  
+B.Sc. Information Technology  
 
 ---
 
-
- 
- 
----
-
-⭐️ *Building reliable, scalable iOS applications that perform in production.*
+⭐️ Building reliable, scalable iOS apps that perform in production.
