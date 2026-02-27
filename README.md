@@ -8,6 +8,21 @@
 
 ---
 
+## 🌐 Portfolio & Contact  
+
+📧 **Email:** dev.iharsh1008@gmail.com  
+📱 **Phone:** +91 9662108047  
+
+🌐 **Portfolio Website**  
+👉 https://dev1008iharsh.github.io/  
+
+💼 **LinkedIn**  
+👉 https://www.linkedin.com/in/dev1008iharsh/  
+
+🐙 **GitHub**  
+👉 https://github.com/dev1008iharsh  
+
+---
 ## 🧠 About Me  
 
 Senior iOS Engineer with 5+ years of experience designing, developing, and shipping high-quality native applications using Swift. I have engineered multiple products from concept to App Store deployment across healthcare, e-commerce, education, entertainment, and enterprise domains.  
@@ -16,7 +31,7 @@ My focus is on building scalable, performant, and user-centric applications that
 
 ⚠️ **Most production apps cannot be publicly showcased due to company security and confidentiality policies.**
 
----
+
 
 ## 🔧 Core Technical Expertise  
 
@@ -77,28 +92,9 @@ Strong academic foundation in software engineering and problem solving.
 
 ---
 
-## 🌐 Portfolio & Contact  
 
-📧 **Email:** dev.iharsh1008@gmail.com  
-📱 **Phone:** +91 9662108047  
-
-🌐 **Portfolio Website**  
-👉 https://dev1008iharsh.github.io/  
-
-💼 **LinkedIn**  
-👉 https://www.linkedin.com/in/dev1008iharsh/  
-
-🐙 **GitHub**  
-👉 https://github.com/dev1008iharsh  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev1008iharsh&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1008iharsh&layout=compact&theme=dark&hide_border=true)
-
+ 
+ 
 ---
 
 ⭐️ *Building reliable, scalable iOS applications that perform in production.*
