@@ -15,7 +15,7 @@
 
 🌐 Portfolio → https://dev1008iharsh.github.io/  
 💼 LinkedIn → https://www.linkedin.com/in/dev1008iharsh/  
-🐙 GitHub → [https://github.com/dev1008iharsh ](https://github.com/dev1008iharsh?tab=repositories) 
+📦 GitHub Repositories → https://github.com/dev1008iharsh?tab=repositories
 
 ---
 
