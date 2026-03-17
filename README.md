@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harsh Darji  
 
-## 🚀 Senior iOS Engineer — 5+ Years  
+## 🚀 Senior iOS Engineer — 5.5+ Years  
 
 📱 Native iOS Specialist — Swift • UIKit • SwiftUI  
 ⚡ Scalable, High-Performance & Production-Ready Apps  
