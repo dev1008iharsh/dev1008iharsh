@@ -39,16 +39,65 @@ learn and adapt.</p>
 
 ---
 
-## 🔧 Core Expertise  
+## 🔥 Core Professional Skills  
 
-• Swift • UIKit • SwiftUI • Combine  
-• MVC • MVVM • Clean Architecture • Modular Apps  
-• REST & GraphQL APIs  
-• Core Data • Realm • Offline Systems  
-• Firebase Suite (Auth, Firestore, FCM, Analytics)  
-• Push Notifications • Background Tasks • IAP  
-• Core Animation • AVFoundation • Core Location  
-• Security • Keychain • Widgets • Media Processing  
+• Communication Skills  
+• Team Collaboration  
+• Problem-Solving  
+• Critical Thinking  
+• Time Management  
+• Adaptability  
+• Attention to Detail  
+• Responsibility & Ownership  
+• Leadership & Mentoring  
+• Client Communication  
+• Stakeholder Management  
+• Decision Making  
+• Conflict Resolution  
+• Requirement Analysis  
+• Agile / Scrum Collaboration  
+
+---
+
+## 🚀 Technical Skills & Expertise  
+
+• Languages & Frameworks: Swift, UIKit (Primary), SwiftUI (Working Knowledge), Combine  
+
+• Tools & Development Workflow: Xcode, Git/GitHub, TestFlight, App Store Connect, Crash Monitoring, Postman  
+
+• Project Management & Collaboration: Jira, Trello, Notion  
+
+• AI-Assisted Development Tools: ChatGPT, Claude, Gemini, AI Automation  
+
+• Version Control & Code Management: Git, GitHub, GitLab, Bitbucket, SourceTree  
+
+• Payment Gateway Integration: Razorpay, Stripe, KNET, secure payment flows, transaction handling, payment validation  
+
+• Architecture & Design: MVC, MVVM, Clean Architecture, Modular Design, SOLID Principles, Dependency Injection  
+
+• Networking & APIs: REST APIs, GraphQL, URLSession, WebSockets, API Security, Request Optimization  
+
+• Data & Persistence: Core Data, Realm, Firebase Firestore, Offline-First Architecture, Caching Strategies  
+
+• Concurrency & Multithreading: GCD, async/await, Swift Concurrency, Background Tasks, Operation Queues  
+
+• Performance & Optimization: Advanced memory management (ARC, retain cycle prevention), leak detection, performance tuning, efficient rendering (Core Animation), large-scale data handling  
+
+• Security & Compliance: Keychain Services, Secure Storage, Data Protection, Authentication Flows, Privacy Compliance  
+
+• iOS System Frameworks: Core Location, MapKit, AVFoundation, Core Animation, Photos, UserNotifications, AVCaptureSession  
+
+• Cloud & Backend Integration: Firebase (Auth, Firestore, Storage, Analytics, Cloud Messaging), Secure Data Sync, Supabase  
+
+• Mobile Capabilities: Push Notifications, Background Processing, Deep Linking, Universal Links, In-App Purchases  
+
+• Testing & Quality Assurance: Unit Testing, Basic UI Testing, Debugging, Production Issue Analysis, Stability Improvements  
+
+• Communication Tools: Slack, Microsoft Teams, Zoom  
+
+• Documentation & Productivity Tools: Google Docs, Microsoft Excel, Microsoft PowerPoint, Microsoft Word  
+
+• Additional Skills: Code Reviews, Technical Documentation, Scalable System Design, API Integration, Third-Party SDK Integration  
 
 ---
 
