@@ -21,18 +21,21 @@
 
 ## 🧠 About  
 
-Senior iOS Engineer with 5.5+ years of experience building scalable, high-performance applications using Swift and UIKit.
+<p>Senior iOS Engineer with 5.5+ years of experience building scalable, high-performance applications using Swift and UIKit.
 Delivered 20+ apps across domains, with recent experience leveraging AI tools and AI Automation to significantly reduce
-development time.
-Expert in UIKit architecture, performance optimization, offline-first systems, and secure Firebase/REST API integrations.
-Proven in modernizing legacy code, improving stability, and reducing crashes.
-Strong focus on clean, maintainable architecture and engineering best practices, with effective communication skills (IELTS
-L:7.0 Grade out of 9.0) and experience working with international clients, including project management and mentoring junior
-developers.
-Open to cross-platform development (React Native, Flutter), leveraging strong mobile fundamentals with the ability to rapidly
-learn and adapt.
+development time.</p>
 
-⚠️ Most production apps cannot be publicly showcased due to company confidentiality policies.
+<p>Expert in UIKit architecture, performance optimization, offline-first systems, and secure Firebase/REST API integrations.
+Proven in modernizing legacy code, improving stability, and reducing crashes.</p>
+
+<p>Strong focus on clean, maintainable architecture and engineering best practices, with effective communication skills (IELTS
+L:7.0 Grade out of 9.0) and experience working with international clients, including project management and mentoring junior
+developers..</p>
+
+<p>Open to cross-platform development (React Native, Flutter), leveraging strong mobile fundamentals with the ability to rapidly
+learn and adapt.</p>
+
+<p>⚠️ Most production apps cannot be publicly showcased due to company confidentiality policies.</p>
 
 ---
 
