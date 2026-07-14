@@ -11,17 +11,17 @@
 
 <hr/>
 
-<h2>🌐 Portfolio & Contact</h2>
+<h2 align="center">🌐 Portfolio & Contact</h2>
 
-<p>
-📧 <a href="mailto:[dev.iharsh1008@gmail.com](mailto:dev.iharsh1008@gmail.com)">[dev.iharsh1008@gmail.com](mailto:dev.iharsh1008@gmail.com)</a><br/>
-📱 +91 9662108047
+<p align="center">
+📧 Email : <a href="mailto:dev.iharsh1008@gmail.com">dev.iharsh1008@gmail.com</a><br/>
+📱 Phone : +91 9662108047
 </p>
 
-<p>
-🌐 Portfolio → <a href="https://dev1008iharsh.github.io/">Visit</a><br/>
-💼 LinkedIn → <a href="https://www.linkedin.com/in/dev1008iharsh/">Profile</a><br/>
-📦 GitHub → <a href="https://github.com/dev1008iharsh?tab=repositories">Repositories</a>
+<p align="center">
+🌐 Portfolio → <a href="https://dev1008iharsh.github.io/">Portfolio/dev1008iharsh</a><br/>
+💼 LinkedIn → <a href="https://www.linkedin.com/in/dev1008iharsh/">LinkedIn/dev1008iharsh</a><br/>
+📦 GitHub → <a href="https://github.com/dev1008iharsh?tab=repositories">Repositories/dev1008iharsh</a>
 </p>
 
 <hr/>
